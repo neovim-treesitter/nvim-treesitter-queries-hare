@@ -1,0 +1,8 @@
+{
+  "location": null,
+  "min_version": null,
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-hare",
+  "semver": false,
+  "lang": "hare",
+  "max_version": null
+}
